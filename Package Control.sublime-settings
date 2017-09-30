@@ -1,0 +1,11 @@
+{
+	"bootstrapped": true,
+	"auto_upgrade_ignore":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"Package Control"
+	]
+}

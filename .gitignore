@@ -24,6 +24,9 @@
 /SublimeNumberKing.sublime-settings
 *.crt
 
+/ANSIescape
+/UnitTesting
+
 /Javatar
 /Javatar.sublime-settings
 *.javatar-packages
