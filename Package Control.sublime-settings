@@ -4,6 +4,11 @@
 		"Package Control"
 	],
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/channel.json"
+	],
 	"in_process_packages":
 	[
 	],
