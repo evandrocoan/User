@@ -2,7 +2,12 @@
 /Package Control.system-ca-bundle
 /Package Control.last-run
 
+/PackagesManager.system-ca-bundle
+/PackagesManager.last-run
+
 /Package Control.cache
+/PackagesManager.cache
+
 /TabsExtra
 /OverrideAudit.status
 
