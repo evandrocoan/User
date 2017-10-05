@@ -1,7 +1,7 @@
 {
 	"auto_upgrade_ignore":
 	[
-		"Package Control"
+		"PackagesManager"
 	],
 	"bootstrapped": true,
 	"channels":
@@ -14,7 +14,7 @@
 	],
 	"installed_packages":
 	[
-		"PackagesManager",
-		"Package Control"
+		"Package Control",
+		"PackagesManager"
 	]
 }
