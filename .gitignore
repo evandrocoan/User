@@ -1,11 +1,13 @@
 
 /Package Control.system-ca-bundle
 /Package Control.last-run
+/Package Control.user-ca-bundle
+/Package Control.cache
 
 /PackagesManager.system-ca-bundle
 /PackagesManager.last-run
-
-/Package Control.cache
+/PackagesManager.merged-ca-bundle
+/PackagesManager.user-ca-bundle
 /PackagesManager.cache
 
 /OverrideAudit.status
@@ -17,7 +19,6 @@
 /Gist.sublime-settings
 /Terminal.sublime-settings
 /SBSCompare.tmTheme
-/Package Control.user-ca-bundle
 /.SublimeREPLHistory/*
 
 
@@ -34,3 +35,4 @@
 /Javatar
 /Javatar.sublime-settings
 *.javatar-packages
+
