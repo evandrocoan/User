@@ -26,7 +26,6 @@
     "automatically_show_installation_wizard": false, 
     "packages_to_uninstall": [
         "Notepad++ Color Scheme", 
-        "EstimatedTimeLeft", 
         "ActiveViewJumpBack", 
         "amxmodx", 
         "AmxxPawn", 
