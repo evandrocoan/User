@@ -161,6 +161,7 @@
     ], 
     "folders_to_uninstall": [], 
     "files_to_uninstall": [], 
+    "installation_type": "development", 
     "next_packages_to_ignore": [
         "Jump Along Indent", 
         "Select all by current scope", 
