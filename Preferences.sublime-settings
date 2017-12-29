@@ -2,7 +2,6 @@
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
 	"ignored_packages":
 	[
-		"AllAutocomplete",
 		"Anaconda",
 		"ApplySyntax",
 		"BracketHighlighter",
