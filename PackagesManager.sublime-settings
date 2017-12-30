@@ -1,8 +1,4 @@
 {
-	"auto_upgrade_ignore":
-	[
-		"PackagesManager"
-	],
 	"bootstrapped": true,
 	"channels":
 	[
@@ -14,6 +10,7 @@
 	],
 	"installed_packages":
 	[
-		"PackagesManager"
+		"PackagesManager",
+		"StudioChannel"
 	]
 }
