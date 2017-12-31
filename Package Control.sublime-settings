@@ -1,5 +1,5 @@
 {
-    "bootstrapped": false, 
-    "remove_orphaned": false, 
+    "bootstrapped": false,
+    "remove_orphaned": false,
     "remove_orphaned_backup": true
 }
