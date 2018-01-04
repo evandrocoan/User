@@ -12,5 +12,6 @@
 	[
 		"PackagesManager",
 		"StudioChannel"
-	]
+	],
+	"enable_tests": true
 }
