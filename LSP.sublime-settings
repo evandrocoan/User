@@ -1,0 +1,32 @@
+{
+	"clients": {
+		"pyls": {
+			"command": [
+				"pyls",
+				"-vvv"
+			],
+			"enabled": true,
+			"languageId": "python",
+			"scopes": [
+				"source.python"
+			],
+			"settings": {
+				"pyls": {
+					"plugins": {
+						"pycodestyle": {
+							"enabled": true,
+							"ignore": [
+								"E201",
+								"E501"
+							]
+						}
+					}
+				}
+			},
+			"syntaxes": [
+				"Packages/Python/Python.sublime-syntax"
+			]
+		}
+	},
+	"log_debug": true
+}
