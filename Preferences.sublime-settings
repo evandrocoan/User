@@ -2,7 +2,6 @@
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
 	"ignored_packages":
 	[
-		"Anaconda",
 		"ApplySyntax",
 		"BracketHighlighter",
 		"BuildView",
@@ -19,7 +18,6 @@
 		"GitGutter",
 		"GotoLastEditEnhanced",
 		"Javatar",
-		"JediPythonAutoCompletion",
 		"LocalHistory",
 		"MatlabCompletions",
 		"MatlabFilenameAutoComplete",
