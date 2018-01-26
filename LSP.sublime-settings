@@ -3,9 +3,19 @@
 		"pyls": {
 			"command": [
 				"pyls",
-				"-vvv"
+				"-vv",
+				// "--log-file",
+				// "F:/SublimeText/debug2.txt",
 			],
 			"enabled": true,
+			"env": {
+				"PYTHONPATH": [
+					"${sublime_libs}",
+					"${sublime_path}",
+					"${packages}",
+					"${project_path}"
+				]
+			},
 			"languageId": "python",
 			"scopes": [
 				"source.python"
@@ -14,10 +24,13 @@
 				"pyls": {
 					"plugins": {
 						"pycodestyle": {
+							"enabled": false
+						},
+						"pydocstyle": {
 							"enabled": true,
 							"ignore": [
-								"E201",
-								"E501"
+								"D202",
+								"D208"
 							]
 						}
 					}
@@ -28,5 +41,7 @@
 			]
 		}
 	},
-	"log_debug": true
+	"log_debug": true,
+	"log_payloads": false,
+	"log_server": true
 }
