@@ -1,15 +1,20 @@
 {
-	"clients": {
-		"pyls": {
-			"command": [
+	"clients":
+	{
+		"pyls":
+		{
+			"command":
+			[
 				"pyls",
-				"-vv",
-				// "--log-file",
-				// "F:/SublimeText/debug2.txt",
+				"-vvv",
+				"--log-file",
+				"F:/SublimeText/debug2.txt"
 			],
 			"enabled": true,
-			"env": {
-				"PYTHONPATH": [
+			"env":
+			{
+				"PYTHONPATH":
+				[
 					"${sublime_libs}",
 					"${sublime_path}",
 					"${packages}",
@@ -17,18 +22,25 @@
 				]
 			},
 			"languageId": "python",
-			"scopes": [
+			"scopes":
+			[
 				"source.python"
 			],
-			"settings": {
-				"pyls": {
-					"plugins": {
-						"pycodestyle": {
+			"settings":
+			{
+				"pyls":
+				{
+					"plugins":
+					{
+						"pycodestyle":
+						{
 							"enabled": false
 						},
-						"pydocstyle": {
+						"pydocstyle":
+						{
 							"enabled": true,
-							"ignore": [
+							"ignore":
+							[
 								"D202",
 								"D208"
 							]
@@ -36,7 +48,8 @@
 					}
 				}
 			},
-			"syntaxes": [
+			"syntaxes":
+			[
 				"Packages/Python/Python.sublime-syntax"
 			]
 		}
