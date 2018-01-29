@@ -36,3 +36,5 @@
 /Javatar.sublime-settings
 *.javatar-packages
 
+/SBSCompareScheme.sublime-color-scheme
+/SBSCompareTheme.tmTheme
