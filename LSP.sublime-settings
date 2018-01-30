@@ -44,7 +44,11 @@
 								"D202",
 								"D208"
 							]
-						}
+						},
+						"rope":
+						{
+							"create_folder": false
+						},
 					}
 				}
 			},
