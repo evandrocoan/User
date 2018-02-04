@@ -241,7 +241,7 @@
         "PowerCursors",
         "PrettyJSON",
         "ProjectSpecificSyntax",
-        "PythonDebugTools",
+        "debug_tools",
         "QuickSettings",
         "REG",
         "REPL",
