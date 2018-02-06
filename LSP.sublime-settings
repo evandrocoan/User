@@ -59,6 +59,7 @@
 		}
 	},
 	"log_debug": true,
+	"log_file": "F:/SublimeText/debug2.txt",
 	"log_payloads": false,
 	"log_server": true
 }
