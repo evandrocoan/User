@@ -1,3 +1,4 @@
 {
-	"jar_file": "D:/User/Documents/plantuml-server/plantuml.jar"
+	"jar_file": "D:/User/Documents/plantuml-server/plantuml.jar",
+	"plantuml_server": "http://localhost:8080/plantuml/"
 }
