@@ -8,6 +8,5 @@
 	"function_autocomplete": false,
 	"include_directory": "F:\\SteamCMD\\steamapps\\common\\Half-Life\\czero\\addons\\amxmodx\\scripting\\include",
 	"live_refresh_delay": 60.0,
-	"use_all_autocomplete": true,
 	"word_autocomplete": true
 }
