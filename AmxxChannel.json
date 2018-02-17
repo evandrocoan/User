@@ -11,7 +11,7 @@
         "Sublime Text Settings.sublime-settings",
         "Tab Context.sublime-menu",
         "platform_edit_settings.py",
-        "synced_side_bar_watcher.py",
+        "synced_side_bar_watcher.py"
     ],
     "files_to_uninstall": [
     ],
