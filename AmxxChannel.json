@@ -13,15 +13,13 @@
         "platform_edit_settings.py",
         "synced_side_bar_watcher.py"
     ],
-    "files_to_uninstall": [
-    ],
-    "folders_to_uninstall": [
-    ],
+    "files_to_uninstall": [],
+    "folders_to_uninstall": [],
     "installation_type": "development",
+    "is_to_install_the_menu": false,
     "next_packages_to_ignore": [],
     "packages_not_installed": [],
-    "packages_to_unignore": [
-    ],
+    "packages_to_unignore": [],
     "packages_to_uninstall": [
         "ActiveViewJumpBack",
         "Amxmodx",
