@@ -5,7 +5,7 @@
 		{
 			"command":
 			[
-				"pyls",
+				"F:\\Python\\Scripts\\pyls.exe",
 				"-vvv",
 				"--log-file",
 				"F:/SublimeText/debug2.txt"
