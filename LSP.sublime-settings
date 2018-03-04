@@ -61,6 +61,16 @@
 			[
 				"Packages/Python/Python.sublime-syntax"
 			]
+		},
+		"cquery":
+		{
+			"command":
+			[
+				"F:\\cquery\\build\\release\\bin\\cquery.exe",
+				"--language-server",
+				"--log-all-to-stderr"
+			],
+			"enabled": true
 		}
 	},
 	"log_debug": true,
