@@ -67,10 +67,13 @@
 			"command":
 			[
 				"F:\\cquery\\build\\release\\bin\\cquery.exe",
-				"--language-server",
-				"--log-all-to-stderr"
+				// "--log-all-to-stderr"
 			],
-			"enabled": true
+			"enabled": true,
+			"settings":
+			{
+				"disable_diagnostics": true
+			}
 		}
 	},
 	"log_debug": true,
