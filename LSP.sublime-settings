@@ -67,17 +67,19 @@
 			"command":
 			[
 				"F:\\cquery\\build\\release\\bin\\cquery.exe",
-				// "--log-all-to-stderr"
+				"--log-all-to-stderr",
+				"--log-file-append",
+				"F:/SublimeText/debug2.txt"
 			],
-			"enabled": true,
+			"enabled": false,
 			"settings":
 			{
-				"disable_diagnostics": true
+				"disable_diagnostics": false
 			}
 		}
 	},
 	"log_debug": true,
 	"log_file": "F:/SublimeText/debug2.txt",
-	"log_payloads": false,
+	"log_payloads": true,
 	"log_server": true
 }
