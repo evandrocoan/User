@@ -52,7 +52,7 @@
 						},
 						"rope":
 						{
-							"create_folder": false
+							"ropeFolder": null
 						},
 					}
 				}
