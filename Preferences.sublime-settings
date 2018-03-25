@@ -3,6 +3,7 @@
 	"ignored_packages":
 	[
 		"ApplySyntax",
+		"AutoFileName",
 		"BracketHighlighter",
 		"BuildView",
 		"C++ Completions",
