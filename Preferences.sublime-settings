@@ -1,5 +1,7 @@
 {
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
+	"font_face": "Hack",
+	"font_size": 12.5,
 	"ignored_packages":
 	[
 		"ApplySyntax",
@@ -29,5 +31,6 @@
 		"SublimeLinter-javac",
 		"SyncedSideBar",
 		"Vintage"
-	]
+	],
+	"update_check": false
 }
