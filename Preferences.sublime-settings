@@ -2,7 +2,8 @@
 	"added_words":
 	[
 		"iterable",
-		"unuseful"
+		"unuseful",
+		"factorable"
 	],
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
 	"font_face": "Hack",
