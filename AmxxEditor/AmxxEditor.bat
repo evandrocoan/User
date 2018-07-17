@@ -29,16 +29,16 @@ echo.
 
 :: Put here the paths to the folders where do you want to install the plugin.
 :: You must to provide at least one folder.
-set folders_list[0]=F:\SteamCMD\steamapps\common\Half-Life\cstrike\addons\AmxxEditor\plugins
-set folders_list[1]=F:\SteamCMD\steamapps\common\Half-Life\czero\addons\AmxxEditor\plugins
-set folders_list[2]=F:\SteamLibrary\steamapps\common\Sven Co-op Dedicated Server\svencoop\addons\AmxxEditor\plugins
+set folders_list[0]=F:\SteamCMD\steamapps\common\Half-Life\cstrike\addons\amxmodx\plugins
+set folders_list[1]=F:\SteamCMD\steamapps\common\Half-Life\czero\addons\amxmodx\plugins
+set folders_list[2]=F:\SteamLibrary\steamapps\common\Sven Co-op Dedicated Server\svencoop\addons\amxmodx\plugins
 
 :: Where is your compiler?
 ::
 :: Example:
-:: F:\SteamCMD\steamapps\common\Half-Life\czero\addons\AmxxEditor\scripting\amxxpc.exe
+:: F:\SteamCMD\steamapps\common\Half-Life\czero\addons\amxmodx\scripting\amxxpc.exe
 ::
-set AMXX_COMPILER_PATH=F:\SteamCMD\steamapps\common\Half-Life\czero\addons\AmxxEditor\scripting\amxxpc.exe
+set AMXX_COMPILER_PATH=F:\SteamCMD\steamapps\common\Half-Life\czero\addons\amxmodx\scripting\amxxpc.exe
 
 
 
@@ -51,7 +51,7 @@ set AMXX_COMPILER_PATH=F:\SteamCMD\steamapps\common\Half-Life\czero\addons\AmxxE
 :: http://stackoverflow.com/questions/9922498/calculate-time-difference-in-windows-batch-file
 ::
 :: AMX Mod X compiling batch downloaded from:
-:: https://github.com/alliedmodders/AmxxEditor/pull/212/commits
+:: https://github.com/alliedmodders/amxmodx/pull/212/commits
 
 :: Here begins the command you want to measure
 for /F "tokens=1-4 delims=:.," %%a in ("%time%") do (

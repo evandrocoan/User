@@ -24,19 +24,19 @@ printf "\nCompiling $2... Current time is: $(date)\n"
 # Declare an array variable.
 # You can access them using echo "${arr[0]}", "${arr[1]}"
 declare -a folders_list=(
-"F:/SteamCMD/steamapps/common/Half-Life/czero/addons/AmxxEditor/plugins"
-"F:/SteamCMD/steamapps/common/Half-Life/cstrike/addons/AmxxEditor/plugins"
-"F:/SteamLibrary/steamapps/common/Sven Co-op Dedicated Server/svencoop/addons/AmxxEditor/plugins"
+"F:/SteamCMD/steamapps/common/Half-Life/czero/addons/amxmodx/plugins"
+"F:/SteamCMD/steamapps/common/Half-Life/cstrike/addons/amxmodx/plugins"
+"F:/SteamLibrary/steamapps/common/Sven Co-op Dedicated Server/svencoop/addons/amxmodx/plugins"
 )
 
 # Where is your compiler?
 #
 # Examples:
 #
-# "F:/SteamCMD/steamapps/common/Half-Life/czero/addons/AmxxEditor/scripting/amxxpc.exe"
-# "/home/jack/steam/steamapps/common/Half-Life/czero/addons/AmxxEditor/scripting/compiler.sh"
+# "F:/SteamCMD/steamapps/common/Half-Life/czero/addons/amxmodx/scripting/amxxpc.exe"
+# "/home/jack/steam/steamapps/common/Half-Life/czero/addons/amxmodx/scripting/compiler.sh"
 #
-AMXX_COMPILER_PATH="F:/SteamCMD/steamapps/common/Half-Life/czero/addons/AmxxEditor/scripting/amxxpc.exe"
+AMXX_COMPILER_PATH="F:/SteamCMD/steamapps/common/Half-Life/czero/addons/amxmodx/scripting/amxxpc.exe"
 
 
 
