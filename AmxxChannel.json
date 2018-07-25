@@ -22,10 +22,8 @@
     "packages_to_unignore": [],
     "packages_to_uninstall": [
         "ActiveViewJumpBack",
-        "Amxmodx",
+        "AmxxEditor",
         "AmxxChannel",
-        "PortalockerFiles",
-        "ConcurrentLogHandler",
         "DebugTools",
         "EstimatedTimeLeft",
         "ChannelManager",
