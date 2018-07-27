@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/channel.json",
+		"https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json",
 		"https://packagecontrol.io/channel_v3.json"
 	],
 	"enable_tests": true,
