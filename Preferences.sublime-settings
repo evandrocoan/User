@@ -1,6 +1,5 @@
 {
-	"added_words":
-	[
+	"added_words": [
 		"iterable",
 		"unuseful",
 		"factorable"
@@ -8,8 +7,7 @@
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
 	"font_face": "Hack",
 	"font_size": 12.5,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"ApplySyntax",
 		"AutoFileName",
 		"C++ Completions",

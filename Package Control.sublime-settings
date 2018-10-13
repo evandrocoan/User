@@ -1,5 +1,6 @@
 {
-    "bootstrapped": false,
-    "remove_orphaned": false,
-    "remove_orphaned_backup": true
+	"bootstrapped": false,
+	"installed_packages": [],
+	"remove_orphaned": false,
+	"remove_orphaned_backup": true
 }
