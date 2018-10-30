@@ -96,7 +96,6 @@
         "WordHighlight"
     ],
     "packages_to_uninstall": [
-        "0_settings_loader",
         "A File Icon",
         "ANSIescape",
         "AceJump",
