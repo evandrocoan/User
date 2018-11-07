@@ -35,5 +35,6 @@
 		"SyncedSideBar",
 		"Vintage"
 	],
+	"restore_output_view_scroll": true,
 	"update_check": false
 }
