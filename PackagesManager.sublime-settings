@@ -1,12 +1,16 @@
 {
 	"bootstrapped": true,
-	"channels": [
+	"channels":
+	[
 		"https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json",
 		"https://packagecontrol.io/channel_v3.json"
 	],
 	"enable_tests": true,
-	"in_process_packages": [],
-	"installed_packages": [
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
 		"PackagesManager",
 		"StudioChannel"
 	]
