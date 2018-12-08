@@ -222,7 +222,7 @@
         "PowerCursors",
         "PrettyJSON",
         "ProjectSpecificSyntax",
-        "DebugTools",
+        "debugtools",
         "QuickSettings",
         "REG",
         "REPL",
