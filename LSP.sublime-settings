@@ -38,7 +38,7 @@
 						},
 						"pydocstyle":
 						{
-							"enabled": true,
+							"enabled": false,
 							"ignore":
 							[
 								"D200",
