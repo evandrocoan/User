@@ -13,5 +13,6 @@
 	[
 		"PackagesManager",
 		"StudioChannel"
-	]
+	],
+	"extract_everything": true
 }
