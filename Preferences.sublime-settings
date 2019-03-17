@@ -12,6 +12,7 @@
 	[
 		"ApplySyntax",
 		"AutoFileName",
+		"BracketHighlighter",
 		"C++ Completions",
 		"C++ Qt Completions",
 		"C++ Snippets",
