@@ -6,6 +6,7 @@
 		"https://packagecontrol.io/channel_v3.json"
 	],
 	"enable_tests": true,
+	"extract_everything": true,
 	"in_process_packages":
 	[
 	],
@@ -13,6 +14,5 @@
 	[
 		"PackagesManager",
 		"StudioChannel"
-	],
-	"extract_everything": true
+	]
 }
