@@ -5,6 +5,7 @@
 		"unuseful",
 		"factorable"
 	],
+	"channel_repository_tools_output_panel": "exec",
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
 	"font_face": "Hack",
 	"font_size": 12.5,
