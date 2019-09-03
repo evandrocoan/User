@@ -28,6 +28,7 @@
 			],
 			"settings":
 			{
+				"register_trigger_chars": false,
 				"pyls":
 				{
 					"plugins":
