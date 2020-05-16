@@ -5,7 +5,7 @@
     "debug_level": 1,
     "enable_buildversion": false,
     "enable_inteltip": true,
-    "function_autocomplete": false,
+    "function_autocomplete": true,
     "include_directory": "F:\\SteamCMD\\steamapps\\common\\Half-Life\\czero\\addons\\amxmodx\\scripting\\include",
     "live_refresh_delay": 60.0,
     "word_autocomplete": true
