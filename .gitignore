@@ -37,6 +37,6 @@
 /Javatar.sublime-settings
 *.javatar-packages
 
-/SBSCompareScheme.sublime-color-scheme
-/SBSCompareTheme.tmTheme
+/SBSCompareScheme.hidden-color-scheme
+/SBSCompareTheme.hidden-tmTheme
 /RememberCommandPaletteInput.inputs
