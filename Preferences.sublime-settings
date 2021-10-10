@@ -31,7 +31,8 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-pylint",
 		"SyncedSideBar",
-		"Vintage"
+		"Vintage",
 	],
-	"update_check": false
+	"update_check": false,
+	"color_scheme": "Packages/Notepad++ Color Scheme/Default Stylers.tmTheme",
 }
