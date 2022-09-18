@@ -20,7 +20,6 @@
 		"meta.preprocessor",
 		"storage.modifier",
 		"constant.other.symbol",
-		"meta.require",
 		"meta.selector",
 		"brackethighlighter.tag",
 		"brackethighlighter.curly",
