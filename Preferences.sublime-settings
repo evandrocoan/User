@@ -1,12 +1,12 @@
 {
 	"added_words":
 	[
+		"Intelbras",
 	],
 	"channel_repository_tools_panel_name": "exec",
 	"channel_repository_tools_recursively_search": true,
 	"dictionary": "Packages/Language - English and Portuguese/EN_PT.dic",
-	"font_face": "Hack",
-	"font_size": 12.5,
+	/*"font_size": 12.5,*/
 	"ignored_packages":
 	[
 		"ApplySyntax",
@@ -23,6 +23,7 @@
 		"Git",
 		"GitGutter",
 		"Javatar",
+		"LSP-pylsp",
 		"MatlabCompletions",
 		"MatlabFilenameAutoComplete",
 		"MySQLSnippets",
@@ -35,4 +36,10 @@
 	],
 	"update_check": false,
 	"color_scheme": "Packages/Notepad++ Color Scheme/Default Stylers.tmTheme",
+	"font_face": "Hack",
+	"font_size": 11.5,
+	"ignored_words":
+	[
+		"conseguiriamos"
+	],
 }

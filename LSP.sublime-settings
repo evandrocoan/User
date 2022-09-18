@@ -1,9 +1,13 @@
 {
 	"clients":
 	{
+		"LSP-pylsp":
+		{
+			"enabled": false,
+		},
 	},
 	"log_debug": true,
 	"log_file": "F:/SublimeText/debug2.txt",
 	"log_payloads": true,
-	"log_server": true
+	"log_server": true,
 }
