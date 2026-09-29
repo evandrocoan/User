@@ -1,5 +1,6 @@
 {
 	"bootstrapped": false,
+	"in_process_packages": [],
 	"installed_packages": [],
 	"remove_orphaned": false,
 	"remove_orphaned_backup": true
